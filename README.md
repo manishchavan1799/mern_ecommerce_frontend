@@ -1,7 +1,7 @@
 # mern_ecommerce_frontend
 Hi I am Manish Chavan, this is my frontend ecommerce MERN project.
 
-#Environment Variables.
+# Environment variables
 
 Make Sure to Create a .env file in root directory and add appropriate variables in order to use the app.
 
